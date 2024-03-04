@@ -1,0 +1,9 @@
+.env
+.DS_STORE
+cert
+zapping_access_x64
+zapping_access_arm
+zapping_access
+.vscode/launch.json
+target/
+**/*.pb.go
