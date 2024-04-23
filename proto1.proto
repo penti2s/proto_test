@@ -4,11 +4,9 @@ syntax="proto3";
 // Cambio 23/03
 // Hackhaton Cambio 2
 
-// GoGo gRPC Example 11111 MODIFICACION MAIN PROTO 
-//  NEW CHANGES 33    
-//  NEW CHANGES 44
-// This example is used to show how to use gRPC and
-// gRPC-Gateway with GoGo Protobuf.
+// Cualquier cambio
+
+
 package example;
 
 import "google/protobuf/empty.proto";
