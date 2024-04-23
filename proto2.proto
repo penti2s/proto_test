@@ -1,9 +1,6 @@
 syntax="proto3";
 
-// GoGo gRPC Example 22222222222222
-//
-// This example is used to show how to use gRPC and
-// gRPC-Gateway with GoGo Protobuf.
+// CUALQUIER COSAAA
 package example;
 
 import "google/protobuf/empty.proto";
